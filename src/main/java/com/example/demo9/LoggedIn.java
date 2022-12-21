@@ -1,4 +1,4 @@
-package com.example.project_pharmacy;
+package com.example.demo9;
 
 public class LoggedIn {
     public static String[] userName={"ezza","laiba","marleen","saba"};

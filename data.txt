@@ -28,3 +28,8 @@ Augmentin
 Disprin
 syringe
 Panadol
+Panadol
+Augmentin
+BpApparatus
+BpApparatus
+Disprin

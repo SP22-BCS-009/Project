@@ -1,6 +1,5 @@
 package com.example.demo9;
 
-import com.example.project_pharmacy.LoggedIn;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -170,6 +169,8 @@ public class HelloApplication extends Application {
         ObservableList<String> names= FXCollections.observableArrayList("medicine","bp","syringe");
         ListView<String> listView=new ListView<String>(names);
         listView.setMaxSize(200,100);
+
+//        Scene 4
 
         totalBill.setOnAction(new EventHandler<ActionEvent>() {
             @Override
